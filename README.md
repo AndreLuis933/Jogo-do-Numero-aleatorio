@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Tente descobrir o que o computador esta pensando
 
 
